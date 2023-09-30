@@ -1,0 +1,42 @@
+body { background-color: black;
+color: white;
+}
+html {
+    font-size: 15px;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+/*common styles*/
+
+a {
+    text-decoration: none;
+    color: white;
+}
+h1,h3 ,h4{
+    color: orangered;
+    font-size: 22px;
+}
+p,li{
+    font-size: 18px;
+font-family:'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 30px;
+}
+.profilephoto{
+    width: 150px;
+    border: 2px double black;
+    border-radius: 50%;
+}
+h1{
+    border: 1px solid gray; /*borderstyling*/
+    padding: 10px; /*adds space between text and border*/
+}
+h1{
+    border-style:double;
+}
+h3,h4{
+    text-decoration:underline;
+    text-decoration-color: darkgrey;
+}
